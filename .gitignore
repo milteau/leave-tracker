@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Build outputs
+build/
+dist/
+*.spec
+
+# Database
+*.db
+
+# Gradio
+.gradio/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python packages
+pip-log.txt
+*.egg-info/
